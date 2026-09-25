@@ -1,10 +1,12 @@
 ﻿{
-  "name": "admin hoang",
+  "version": "3.0",
+  "customer": "admin hoang",
   "phone": "0963888296",
   "machine_id": "A95D-80B9-59DA-6BBC",
-  "license_key": "8FCE-FA24-89E8-65B4-CD62-2402",
-  "type": "permanent",
+  "license_key": "8FCE-FA24-89E8-65B4-CD622402",
+  "license_type": "permanent",
   "expiry_date": "",
-  "active": true,
-  "activated_at": "2026-09-25 18:20:39"
+  "issued_at": "2026-09-26 03:11:26",
+  "issued_by": "HOANG DO PLAY PRO ADMIN",
+  "status": "active"
 }
