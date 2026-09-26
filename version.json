@@ -1,6 +1,6 @@
 {
   "version": "1.0.2",
-  "download_url": "https://github.com/minhhoangk4aspan-ctrl/hoangdo-playpro/releases/download/v1.0.1/MediaPadApp.exe",
-  "size": 245000000,
-  "notes": "Cập nhật giao diện, fix lỗi tải nhạc"
+  "download_url": "https://github.com/minhhoangk4aspan-ctrl/hoangdo-playpro/releases/download/v1.0.2/MediaPadApp.exe",
+  "size": 250000000,
+  "notes": "Thêm Tab 6: EQ 10 dải + AI Master + Plugin Simulation (Waves, UAD-2, iZotope...) + Room FX + ASIO Detection. Fix bug nhỏ, tối ưu hiệu suất."
 }
