@@ -2,5 +2,5 @@
   "version": "1.0.2",
   "download_url": "https://github.com/minhhoangk4aspan-ctrl/hoangdo-playpro/releases/download/v1.0.2/MediaPadApp.exe",
   "size": 250000000,
-  "notes": "🎚️ Tab 6 mới: EQ 10 dải + AI Master + Plugin Suite (Waves, UAD-2, iZotope, FabFilter...) + Room/Reverb FX + Auto-detect ASIO & Sound Card. Fix bug nhỏ, tối ưu hiệu suất."
+  "notes": "🎛️ Plugin Rack thật: 13 chuỗi xử lý (Waves SSL, UAD Neve, LA-2A, 1176LN, L2, Ozone, FabFilter, Soundtoys...) với 20+ tham số chỉnh được. Thêm EQ 10 dải, AI Master, Room FX, Auto-detect ASIO."
 }
